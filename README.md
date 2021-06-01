@@ -1,3 +1,4 @@
+theme: jekyll-theme-cayman
 # cit281-lab4
 Purpose of this lab:
 - Create fastify Node.js web server, add fastify to project using npm. 
