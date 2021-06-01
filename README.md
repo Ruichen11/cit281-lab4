@@ -27,7 +27,7 @@ fastify.listen(listenPort, listenIP, (err, address) => {
   console.log(`Server listening on ${address}`);
 });
 ```
-[Image](https://github.com/Ruichen11/cit281-lab4/blob/b5e9a2c20c625462e8810b11612b4425ccc7b9ad/Lab%204.JPG)
+![Image](https://github.com/Ruichen11/cit281-lab4/blob/b5e9a2c20c625462e8810b11612b4425ccc7b9ad/Lab%204.JPG)
 
 #### What I learned:
 - Practiced how to efficiently use git from command prompt. Learned how to request object query property to display on web-server.
