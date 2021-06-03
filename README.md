@@ -1,3 +1,5 @@
+![world](https://user-images.githubusercontent.com/84296093/120625767-db26a680-c416-11eb-85da-0d2cbd0acb07.jpg)
+
 # cit281-lab4
 Purpose of this lab:
 - Create fastify Node.js web server, add fastify to project using npm. 
@@ -38,7 +40,7 @@ fastify.listen(listenPort, listenIP, (err, address) => {
   console.log(`Server listening on ${address}`);
 });
 ```
-![Image](https://github.com/Ruichen11/cit281-lab4/blob/b5e9a2c20c625462e8810b11612b4425ccc7b9ad/Lab%204.JPG)
+![Lab 4](https://user-images.githubusercontent.com/84296093/120625600-baf6e780-c416-11eb-8e5c-ac72be8246be.JPG)
 
 #### What I learned:
 - Practiced how to efficiently use git from command prompt. Learned how to request object query property to display on web-server.
