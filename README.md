@@ -1,6 +1,6 @@
 ![world](https://user-images.githubusercontent.com/84296093/120625767-db26a680-c416-11eb-85da-0d2cbd0acb07.jpg)
 
-# cit281-lab4
+# CIT281-Lab4
 Purpose of this lab:
 - Create fastify Node.js web server, add fastify to project using npm. 
 - Add git repo 
